@@ -121,6 +121,10 @@
     margin-top: 50px;
 
 }
+#card-shadow{
+    
+    box-shadow: rgb(100, 100, 100) 0px 7px 30px 10px ;
+}
 .card-img-top{
     width: 100%;
     
